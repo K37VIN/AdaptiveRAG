@@ -1,0 +1,11 @@
+langchain-groq
+langchain-community
+langchain
+langgraph 
+python-dotenv
+pydantic 
+ipykernel
+faiss-cpu
+ollama 
+langchain-ollama
+pypdf
